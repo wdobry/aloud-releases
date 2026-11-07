@@ -1,7 +1,7 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/wdobry/aloud-releases/releases/download/v1.6.0/Aloud-1.6.0-arm64.dmg",
-  "size": 147582008,
-  "sha256": "641db595c7dd32a2e0ec2efa55a107c6465bb3b692e493ba524cb690fccc1f72",
-  "publishedAt": "2026-10-24T22:13:12.437Z"
+  "version": "1.6.1",
+  "url": "https://github.com/wdobry/aloud-releases/releases/download/v1.6.1/Aloud-1.6.1-arm64.dmg",
+  "size": 147557032,
+  "sha256": "12e5d8620a89a86d31867d84feb265ea8ded9f21d2a7dc8066ed5b008afeceb4",
+  "publishedAt": "2026-11-07T09:00:43.352Z"
 }
